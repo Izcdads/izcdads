@@ -1,16 +1,14 @@
-## Olá pessoa seja bem-vindo
+## Olá pessoa seja bem-vindo 👍
 
 
-**Izcdads/izcdads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é izaque cabral
 
-Here are some ideas to get you started:
+-Estou esteundando em uma escola estadual 
+-Estou me desenvolvendo na linguagem javascipt
+-Este espaço é para projetos do meu desenolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### Entre em contato 📧
+ 
+ izaque10998br@gmail.com
+ 
+ ![](https://media.tenor.com/PBMuYPx8L74AAAAM/boyfriend-boyfriend-fnf.gif)
